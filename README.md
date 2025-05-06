@@ -29,7 +29,8 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 **Procedure**
 
 # write all the steps invloved 
-*/ 1.Initialize the shift register to a known state (e.g., all zeros).
+
+1.Initialize the shift register to a known state (e.g., all zeros).
 
 2.Input a bit serially into the shift register.
 
